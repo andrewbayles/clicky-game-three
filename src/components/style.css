@@ -1,0 +1,48 @@
+.card{
+    background: white;
+    border: 1px solid #aaaaaa;
+    margin: 10px;
+    width: 170px;
+  }
+  
+  .card > .img-container{
+    margin: 1rem;
+    height: 100%;
+    overflow: hidden;
+    text-align: center;
+    text-emphasis: none;
+   
+  }
+    .card > .img-container > img {
+      width: 70%
+    }
+    
+    .card > .content {
+      padding-left: 1rem;
+      padding-right: 1rem;
+      font-size: 15px;
+    }
+    
+    .card > .content > ul {
+      list-style-type: none;
+    }
+    
+    .card > .content > ul > li {
+      margin-top: 18px;
+    }
+
+
+.container {
+    background: white;
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 75%;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    align-content: flex-start;
+    overflow: auto;
+    padding-bottom: 50px;
+    font-family: 'Roboto Mono', monospace;
+    width: 800px;
+}

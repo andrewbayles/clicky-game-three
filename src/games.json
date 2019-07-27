@@ -1,0 +1,74 @@
+[
+    {
+    "id": 1,
+    "name": "Castlevania",
+    "image": "https://static.giantbomb.com/uploads/original/0/3413/211188-castlevania_1.jpg"
+    },
+    
+    {
+    "id": 2,
+    "name": "Dragon Warrior",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/51og-DKKa0L.jpg"
+    },
+    
+    {
+    "id": 3,
+    "name": "Duck Tales",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/64/DuckTales_NES_Cover.png/220px-DuckTales_NES_Cover.png"
+    },
+
+    {
+    "id": 4,
+    "name": "Excitebike",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/616gPkdOE0L._SY679_.jpg"
+    },
+
+    {
+    "id": 5,
+    "name": "Final Fantasy",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/FF1_USA_boxart.jpg/220px-FF1_USA_boxart.jpg"
+    },
+
+    {
+    "id": 6,
+    "name": "Kid Icarus",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/Kid_Icarus_NES_box_art.png/220px-Kid_Icarus_NES_box_art.png"
+    },
+
+    {
+    "id": 7,
+    "name": "Little Nemo",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/Littlenemocover.png/250px-Littlenemocover.png"
+    },
+
+    {
+    "id": 8,
+    "name": "Metroid",
+    "image": "https://cdn11.bigcommerce.com/s-ymgqt/images/stencil/1280x1280/products/24290/15668/Game%20Nintendo%20NES-251-2__01722.1394712368.jpg?c=2&imbypass=on"
+    },
+
+    {
+    "id": 9,
+    "name": "Ninja Gaiden 2",
+    "image": "https://i.pinimg.com/originals/4a/8d/7d/4a8d7d9616ef80ce2aa84aa57be81673.jpg"
+    },
+
+    {
+    "id": 10,
+    "name": "Rampage",
+    "image": "https://i.pinimg.com/originals/48/c3/4b/48c34b4a64f13aa77ee8efb6025278b1.jpg"
+    },
+
+    {
+    "id": 11,
+    "name": "Super Mario Bros.",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/71pfQTYz98L._SY679_.jpg"
+    },
+
+    {
+    "id": 12,
+    "name": "Teenage Mutant Ninja Turtles 2",
+    "image": "https://i.pinimg.com/originals/51/a4/3a/51a43a5a87f61f1e24b8e067665c4520.jpg"
+    }
+
+]
